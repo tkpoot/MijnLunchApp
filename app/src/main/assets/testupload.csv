@@ -1,0 +1,92 @@
+Naam;Categorie;Omschrijving;Prijs;Optie 1;Optie 2
+Delice;Broodjes Kaas en Veggie;Opgeklopte verse kaas met zout v/d guérande, tomaat, komkommer, tuinkers;3.50;TYPEBROOD;GROOTTEBROOD
+Delice Ciboulette;Broodjes Kaas en Veggie;Kruidenkaas, tomaat, komkommer, tuinkers;3.50;TYPEBROOD;GROOTTEBROOD
+Brie;Broodjes Kaas en Veggie;Tomaat, ei, komkommer, wortel, sla;4.00;TYPEBROOD;GROOTTEBROOD
+Brie Deluxe;Broodjes Kaas en Veggie;Honing, walnoten, rozijnen, sla;4.50;TYPEBROOD;GROOTTEBROOD
+Brie Supreme;Broodjes Kaas en Veggie;Honing, balsamico, appel, walnoten, rozijnen, rucola;5.00;TYPEBROOD;GROOTTEBROOD
+Chavroux;Broodjes Kaas en Veggie;Geitenkaas, tomaat, ei, komkommer, wortel, tuinkers;4.00;TYPEBROOD;GROOTTEBROOD
+Campagne;Broodjes Kaas en Veggie;Geitenkaas, honing, walnoten, rozijnen, sla;4.50;TYPEBROOD;GROOTTEBROOD
+Campagne Supreme;Broodjes Kaas en Veggie;Geitenkaas, honing, balsamico, appel, walnoten, rozijnen, rucola;5.00;TYPEBROOD;GROOTTEBROOD
+Mozzarella;Broodjes Kaas en Veggie;Mozzarella, pesto, olijfolie, peper, tomaat, rucola;3.80;TYPEBROOD;GROOTTEBROOD
+Caprese;Broodjes Kaas en Veggie;Mozzarella, pesto, olijfolie, balsamico, peper, tomaat, pijnboompitten, rucola;4.00;TYPEBROOD;GROOTTEBROOD
+Mozzarella Deluxe;Broodjes Kaas en Veggie;Mozzarella, pesto, olijfolie, peper, zongedroogde tomaatjes, olijven, rucola;4.50;TYPEBROOD;GROOTTEBROOD
+Sud'N'Sol;Broodjes Kaas en Veggie;Mozzarella, pesto, olijfolie, balsamico, peper, zongedroogde tomaatjes, pijnboompitten, rucola;4.50;TYPEBROOD;GROOTTEBROOD
+Feta;Broodjes Kaas en Veggie;Olijfolie, peper, tomaat, komkommer, wortel, sla;4.50;TYPEBROOD;GROOTTEBROOD
+Mediterrane;Broodjes Kaas en Veggie;Feta, olijfolie, peper, zongedroogde tomaatjes, olijven, rode uiringen, rucola;5.00;TYPEBROOD;GROOTTEBROOD
+Vegetariana;Broodjes Kaas en Veggie;Pesto, olijfolie, peper, zongedroogde tomaatjes, olijven, rucola;4.00;TYPEBROOD;GROOTTEBROOD
+Vegetariana Deluxe;Broodjes Kaas en Veggie;Pesto, olijfolie, balsamico, peper, zongedroogde tomaatjes, olijven, parmezaan, rucola;4.50;TYPEBROOD;GROOTTEBROOD
+Hummus;Broodjes Kaas en Veggie;Hummus, tomaat, rode ui, rucola;4.00;TYPEBROOD;GROOTTEBROOD
+Gezond;Broodjes Kaas en Veggie;Bieslookdressing, tomaat, ei, komkommer, wortel, tuinkers;3.30;TYPEBROOD;GROOTTEBROOD
+Asperge;Broodjes Kaas en Veggie;Bieslookdressing, asperges, tomaat, ei, komkommer, tuinkers;3.80;TYPEBROOD;GROOTTEBROOD
+Seldersalade;Broodjes Kaas en Veggie;Geraspte selder in frisse dressing, tomaat, komkommer, wortel, tuinkers;3.50;TYPEBROOD;GROOTTEBROOD
+Aardappelsalade;Broodjes Kaas en Veggie;Krielpatatjes in mayo met bieslook, tomaat, komkommer, wortel, tuinkers;3.50;TYPEBROOD;GROOTTEBROOD
+Aspergepatatje;Broodjes Kaas en Veggie;Aardappelsalade, asperges, tuinkers;4.00;TYPEBROOD;GROOTTEBROOD
+Eiersalade;Broodjes Kaas en Veggie;Tomaat, komkommer, wortel, ei, sla;3.50;TYPEBROOD;GROOTTEBROOD
+Primera;Broodjes Kaas en Veggie;Eiersalade, zongedroogde tomaatjes, rode uiringen, wortel, sla;4.00;TYPEBROOD;GROOTTEBROOD
+Omelette;Broodjes Kaas en Veggie;Omelette , ketchup, tomaat, sla;4.50;TYPEBROOD;GROOTTEBROOD
+Ham;Broodjes Vlees;Mayonaise, tomaat, ei, komkommer, wortel, sla;3.50;TYPEBROOD;GROOTTEBROOD
+Argenteuil;Broodjes Vlees;Ham, bieslookdressing, asperges, geplet ei, jonge sla;4.00;TYPEBROOD;GROOTTEBROOD
+Smos;Broodjes Vlees;Ham & kaas, mayo, tomaat, ei, komkommer, wortel, sla;3.50;TYPEBROOD;GROOTTEBROOD
+Maison;Broodjes Vlees;Ham & kaas, cocktailsaus, tomaat, ei, komkommer, wortel, sla;3.50;TYPEBROOD;GROOTTEBROOD
+Dolle Mina;Broodjes Vlees;Ham & kaas, mosterd, wortel, ei, komkommer;3.50;TYPEBROOD;GROOTTEBROOD
+Hawai;Broodjes Vlees;Ham & kaas, cocktailsaus, ananas, ei, sla;3.50;TYPEBROOD;GROOTTEBROOD
+Tropical;Broodjes Vlees;Ham & kaas, cocktailsaus, ananas, perzik, sla;3.50;TYPEBROOD;GROOTTEBROOD
+Vleessalade;Broodjes Vlees;Met breydelham, tomaat, ei, augurk, sla;3.80;TYPEBROOD;GROOTTEBROOD
+Gehakt;Broodjes Vlees;Gehakt, tierenteyn mosterd, tomaat, sla;3.80;TYPEBROOD;GROOTTEBROOD
+Prepare (100% Rund);Broodjes Vlees;Tomaat, ei, augurk of wortel, sla;3.80;TYPEBROOD;GROOTTEBROOD
+Duo;Broodjes Vlees;Préparé, kaas, mayo, ei, tuinkers;4.00;TYPEBROOD;GROOTTEBROOD
+Club;Broodjes Vlees;Préparé, tartaar, tomaat, ei, tuinkers;3.80;TYPEBROOD;GROOTTEBROOD
+Martino;Broodjes Vlees;Préparé, tabasco, mosterd, ansjovis, augurk;3.80;TYPEBROOD;GROOTTEBROOD
+Prepare Pikant;Broodjes Vlees;Préparé, tabasco, mosterd, ansjovis, augurk, tomaat, ei, tuinkers;4.00;TYPEBROOD;GROOTTEBROOD
+Tartino;Broodjes Vlees;Préparé, curryketchup, augurk, kappertjes, rode ui, tuinkers;3.50;TYPEBROOD;GROOTTEBROOD
+Bicky;Broodjes Vlees;Préparé, gele bickysaus, geroosterde ui, augurk, tomaat, sla;3.80;TYPEBROOD;GROOTTEBROOD
+Bicky Boulette;Broodjes Vlees;Schijfjes boulette, gele bickysaus, geroosterde ui, augurk, tomaat, sla;4.50;TYPEBROOD;GROOTTEBROOD
+Boulette;Broodjes Vlees;Schijfjes boulette, saus, tomaat, ijsbergsla;4.00;TYPEBROOD;GROOTTEBROOD
+Boulette Speciale;Broodjes Vlees;Schijfjes boulette, curryketchup, mayo, rode ui;4.00;TYPEBROOD;GROOTTEBROOD
+Bacon;Broodjes Vlees;Bacon, joppiesaus, geroosterde uitjes, tomaat, sla;4.50;TYPEBROOD;GROOTTEBROOD
+Eggs & Bacon;Broodjes Vlees;Omelette, crispy bacon, tomaat, sla;5.00;TYPEBROOD;GROOTTEBROOD
+Salami;Broodjes Vlees;Mayonaise, tomaat, ei, komkommer, wortel, sla;3.80;TYPEBROOD;GROOTTEBROOD
+Salami Deluxe;Broodjes Vlees;Roomkaas, salami, paprika, zongedroogde tomaatjes, olijven, tuinkers;5.00;TYPEBROOD;GROOTTEBROOD
+Chorizo;Broodjes Vlees;Chorizo, tomaat, ei, komkommer, wortel, tuinkers;3.80;TYPEBROOD;GROOTTEBROOD
+Iberico;Broodjes Vlees;Chorizo, zongedroogde tomaatjes, olijven, tuinkers;4.50;TYPEBROOD;GROOTTEBROOD
+Italiano;Broodjes Vlees;Mozzarella, gekookte ham, pesto, olijfolie, peper, tomaat, rucola;4.00;TYPEBROOD;GROOTTEBROOD
+Toscane;Broodjes Vlees;Mozzarella, serranoham, pesto, olijfolie, peper, zongedroogde tomaatjes, olijven, rucola;5.00;TYPEBROOD;GROOTTEBROOD
+Serrano;Broodjes Vlees;Serranoham, pesto, tomaat, rucola;3.80;TYPEBROOD;GROOTTEBROOD
+Serrano Deluxe;Broodjes Vlees;Serranoham, pesto, zongedroogde tomaatjes, olijven, rucola;4.50;TYPEBROOD;GROOTTEBROOD
+Bolzano;Broodjes Vlees;Serranoham, boursin, zongedroogde tomaatjes, olijven, rucola;5.00;TYPEBROOD;GROOTTEBROOD
+Mona Lisa;Broodjes Vlees;Serranoham, roomkaas, zongedroogde tomaatjes, olijven, rucola;5.00;TYPEBROOD;GROOTTEBROOD
+Carpaccio;Broodjes Vlees;Rundscarpaccio, olijfolie, balsamico, peper, parmezaan, pijnboompitten, rucola;4.50;TYPEBROOD;GROOTTEBROOD
+Carpaccio Deluxe;Broodjes Vlees;Rundscarpaccio, olijfolie, balsamico, peper, parmezaan, pijnboompitten, zongedroogde tomaatjes, olijven, rucola;5.00;TYPEBROOD;GROOTTEBROOD
+Kip Curry;Broodjes Kip;Tomaat, ei, komkommer, wortel, sla;3.50;TYPEBROOD;GROOTTEBROOD
+New Delhi;Broodjes Kip;Kip curry, ananas, ei, tuinkers;3.50;TYPEBROOD;GROOTTEBROOD
+Kipfilet;Broodjes Kip;Boter of saus, tomaat, ei, komkommer, wortel, sla;3.50;TYPEBROOD;GROOTTEBROOD
+Polloparme;Broodjes Kip;Kipfilet, zongedroogde tomaatjes, olijven, parmezaan, rucola;4.20;TYPEBROOD;GROOTTEBROOD
+Camargue;Broodjes Kip;Kipfilet, roomkaas, zongedroogde tomaatjes, rode paprika, rucola;5.00;TYPEBROOD;GROOTTEBROOD
+Gegrilde Kip;Broodjes Kip;Stukjes gebakken kip, honingmosterdvinaigrette, tomaat, komkommer, wortel, sla,;4.50;TYPEBROOD;GROOTTEBROOD
+Chicken Caesar;Broodjes Kip;Gegrilde kip, caesar dressing, zongedroogde tomaatjes, pijnboompitten, parmezaan, rucola;5.00;TYPEBROOD;GROOTTEBROOD
+Kip Mango Chutney;Broodjes Kip;Gegrilde kip, mango chutney, ananas, sla;4.50;TYPEBROOD;GROOTTEBROOD
+Kip Avocado;Broodjes Kip;Gegrilde kip, avocado in limoensap, tomaat, rode ui, rucola;4.50;TYPEBROOD;GROOTTEBROOD
+BBQ Kip;Broodjes Kip;Gegrilde kip, bbq saus, tomaat, sla;4.50;TYPEBROOD;GROOTTEBROOD
+Kip Sweet Chili;Broodjes Kip;Gegrilde kip, zoetzure chilisaus, ananas, perzik, sla;4.50;TYPEBROOD;GROOTTEBROOD
+Crispy Chicken;Broodjes Kip;Gegrilde kip, crispy bacon, gele bickysaus, geroosterde uitjes, tomaat, ijsbergsla;5.00;TYPEBROOD;GROOTTEBROOD
+Tonijnsalade;Broodjes Vis;Tomaat, ei, komkommer, wortel, sla;3.50;TYPEBROOD;GROOTTEBROOD
+Tonijntino;Broodjes Vis;Tonijnsalade, ansjovis, augurk, tomaat, tabasco, mosterd;3.50;TYPEBROOD;GROOTTEBROOD
+Tonijn Pikant;Broodjes Vis;Tonijnsalade, ansjovis, augurk, tomaat, tabasco, mosterd, ei, tuinkers;3.80;TYPEBROOD;GROOTTEBROOD
+Tonino;Broodjes Vis;Tonijnsalade, perzik, tuinkers;3.50;TYPEBROOD;GROOTTEBROOD
+Krab;Broodjes Vis;Surimisalade, tomaat, ei, komkommer, wortel, sla;3.80;TYPEBROOD;GROOTTEBROOD
+Krab Exotique;Broodjes Vis;Surimisalade, perzik, tuinkers;3.80;TYPEBROOD;GROOTTEBROOD
+Gerookte Zalm;Broodjes Vis;Boter, gerookte zalm, rode ui;4.20;TYPEBROOD;GROOTTEBROOD
+Neptunus;Broodjes Vis;Gerookte zalm, bieslookvinaigrette, tomaat, rode ui, komkommer, tuinkers;4.70;TYPEBROOD;GROOTTEBROOD
+Zalm & Roomkaas;Broodjes Vis;Gerookte zalm, roomkaas, tomaat, rode ui, tuinkers;5.00;TYPEBROOD;GROOTTEBROOD
+Zalm & Boursin;Broodjes Vis;Gerookte zalm, boursin, tomaat, rode ui, tuinkers;5.00;TYPEBROOD;GROOTTEBROOD
+Zalm & Geitenkaas;Broodjes Vis;Gerookte zalm, honingmosterdvinaigrette, geitenkaas, rucola;5.00;TYPEBROOD;GROOTTEBROOD
+Mer Du Nord;Broodjes Vis;Grijze garnalen met mayo en pezo, tomaat, ei, tuinkers;6.50;TYPEBROOD;GROOTTEBROOD
+Nordic;Broodjes Vis;Grijze garnalen met cocktailsaus, tomaat, ei, tuinkers;6.50;TYPEBROOD;GROOTTEBROOD
+Dagsoep;Soep;Steeds wisselende dagverse soep van seizoensgroenten (375ml);3.00;EXTRABROOD;
+Tomatensoep;Soep;Heerlijke tomatensoep (375ml);3.00;EXTRABROOD;
+Bolognaise;Pasta;Huisbereide tomatensaus met paprika's, courgette, aubergine en gehakt met emmental kaas;6.00;EXTRABROOD;
+Maison;Pasta;Pikante bolognaise saus met room en emmental kaas;6.50;EXTRABROOD;
+Veggie;Pasta;Huisbereide tomatensaus met paprika's, courgette, aubergine en champignons met emmental kaas;6.00;EXTRABROOD;
+Provence;Pasta;Huisbereide tomatensaus met paprika's, courgette, aubergine, champignons en gegrilde kip met parmezaan;7.00;EXTRABROOD;
+Carbonara;Pasta;A la minute gemaakte saus op basis van room, spek, parmezaan en ei;7.00;EXTRABROOD;
+Pasta Pesto;Pasta;Groene pesto, zongedroogde tomaatjes, olijven, pijnboompitten met parmezaan;7.00;EXTRABROOD;

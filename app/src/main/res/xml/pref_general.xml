@@ -1,0 +1,17 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <EditTextPreference
+        android:capitalize="words"
+        android:defaultValue="example@example.com"
+        android:inputType="textCapWords"
+        android:key="e_emailadress"
+        android:maxLines="1"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="E-mailadres" />
+
+    <com.example.poott.newdesign.TimePreference
+        android:key="t_closingtimeint2"
+        android:title="Tot hoelaat kunnen de mensen bestellen"/>
+
+</PreferenceScreen>

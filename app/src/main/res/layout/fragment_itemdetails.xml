@@ -1,0 +1,122 @@
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorLight"
+    tools:context="com.example.poott.newdesign.ItemDetailsFragment"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tv_titel"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="Initial"
+        android:textSize="30dp"
+        android:layout_marginTop="24dp"
+        android:layout_marginBottom="16dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginEnd="16dp"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ScrollView
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toTopOf="@+id/tv_lijn"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_titel">
+        <LinearLayout
+            android:id="@+id/ll_optiecontainer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginStart="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="16dp">
+        </LinearLayout>
+    </ScrollView>
+
+    <Button
+        android:id="@+id/b_afrekenen"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="Toevoegen en afrekenen"
+        android:textSize="18dp"
+        android:layout_marginTop="24dp"
+        android:layout_marginStart="24dp"
+        android:layout_marginEnd="24dp"
+        android:layout_marginBottom="16dp"
+        android:paddingBottom="16dp"
+        android:paddingTop="16dp"
+        android:background="@color/colorPrimaryDark"
+        android:textColor="@color/colorLight"
+        android:elevation="4dp"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"/>
+
+    <Button
+        android:id="@+id/b_toevoegen"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="Toevoegen"
+        android:textSize="18dp"
+        android:layout_marginTop="24dp"
+        android:layout_marginStart="24dp"
+        android:layout_marginEnd="24dp"
+        android:layout_marginBottom="16dp"
+        android:paddingBottom="16dp"
+        android:paddingTop="16dp"
+        android:background="@drawable/button_background"
+        android:textColor="@color/colorPrimaryDark"
+        android:elevation="4dp"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintBottom_toTopOf="@+id/b_afrekenen"/>
+
+    <TextView
+        android:id="@+id/tv_prijs"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="For free"
+        android:textSize="30dp"
+        android:layout_marginStart="24dp"
+        android:layout_marginEnd="32dp"
+        android:layout_marginBottom="24dp"
+        app:layout_constraintBottom_toTopOf="@+id/b_toevoegen"
+        app:layout_constraintRight_toRightOf="parent" />
+
+    <ImageButton
+        android:id="@+id/ib_close"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="24dp"
+        android:layout_marginTop="28dp"
+        android:background="@android:color/transparent"
+        android:src="@drawable/ic_close"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tv_lijn"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/colorText"
+        android:text=""
+        android:layout_marginBottom="32dp"
+        app:layout_constraintBottom_toTopOf="@+id/tv_prijs" />
+
+    <TextView
+        android:id="@+id/tv_lijn2"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/colorText"
+        android:text=""
+        android:layout_marginTop="32dp"
+        app:layout_constraintTop_toBottomOf="@+id/tv_titel" />
+
+</android.support.constraint.ConstraintLayout>

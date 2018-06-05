@@ -1,0 +1,10 @@
+Naam;Categorie;Omschrijving;Waarde;actief?;Prijs
+TYPEBROOD;RADIO;Type brood?;Wit;1;0
+TYPEBROOD;RADIO;Type brood?;Bruin;0;0.20
+TYPEBROOD;RADIO;Type brood?;Meergranen;0;0.20
+TYPEBROOD;RADIO;Type brood?;Wrap;0;0.50
+GROOTTEBROOD;RADIO;Groot of klein?;Groot;1;0
+GROOTTEBROOD;RADIO;Groot of klein?;Klein;0;-0.50
+EXTRABROOD;CHECK;Brood met 2 botertjes erbij?;Wit;0;1.50
+EXTRABROOD;CHECK;Brood met 2 botertjes erbij?;Bruin;0;1.50
+EXTRABROOD;CHECK;Brood met 2 botertjes erbij?;Meergranen;0;1.50
